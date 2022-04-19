@@ -2,7 +2,8 @@
 
 # Updates and stuff
 sudo apt update; sudo apt upgrade
-sudo apt install rip-grep
+sudo apt install ripgrep
+sudo apt install neofetch
 sudo apt install terminator
 sudo apt install kwrite
 sudo apt install git curl python3-pip exuberant-ctags ack-grep
@@ -45,11 +46,11 @@ chmod +x /opt/printawk
 chmod +x /opt/red
 
 # But I just want to get this up and running right now
-mv /opt/g  -t  /usr/bin
-mv /opt/f  -t  /usr/bin
-mv /opt/file_create  -t  /usr/bin
-mv /opt/printawk  -t  /usr/bin
-mv /opt/red  -t  /usr/bin
+sudo mv /opt/g  -t  /usr/bin
+sudo mv /opt/f  -t  /usr/bin
+sudo mv /opt/file_create  -t  /usr/bin
+sudo mv /opt/printawk  -t  /usr/bin
+sudo mv /opt/red  -t  /usr/bin
 
 # Install Brave browser
 sudo apt install apt-transport-https curl

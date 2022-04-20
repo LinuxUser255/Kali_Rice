@@ -81,6 +81,9 @@ git clone https://github.com/morhetz/gruvbox.git ~/.vim/bundle/gruvbox
 # kali .zshrc .. There are still some errors when opening vim, regardless rice script saves a lot of time.
 curl -Ls https://raw.githubusercontent.com/LinuxUser255/BashAndLinux/main/Kali_Linux_Zshrc_2022 -o  ~/.zshrc
 
+# to avoid node.js errors: https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim
+
+
 echo ""
 echo " To finshi Vim plugins, open vim and do :PlugInstall " 
 echo ""

@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+# to avoid node.js errors: https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim
+# I put the install bash script for that in this repo
+# Dispite having done pip3 install isort, This error may likey be encountered:
+# Error detected while processing /home/kali/.vim/plugged/vim-isort/plugin/python_vimisort.vim[17]../home/kali/.vim/plugged/vim-isort/plugin/python_vimisort.vim:
+# line   17:
+# E605: Exception not caught: No python support present, vim-isort will be disabled
+# MatchTagAlways unavailable: requires python.
+
+
 # Updates and stuff
 sudo apt update; sudo apt upgrade
 sudo apt install ripgrep
@@ -74,14 +83,16 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 
 # Vundle
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
+Error detected while processing /home/kali/.vim/plugged/vim-isort/plugin/python_vimisort.vim[17]../home/kali/.vim/plugged/vim-isort/plugin/python_vimisort.vim:
+line   17:
+E605: Exception not caught: No python support present, vim-isort will be disabled
+MatchTagAlways unavailable: requires python.
 
 # Gruvbox
 git clone https://github.com/morhetz/gruvbox.git ~/.vim/bundle/gruvbox
 
 # kali .zshrc .. There are still some errors when opening vim, regardless rice script saves a lot of time.
 curl -Ls https://raw.githubusercontent.com/LinuxUser255/BashAndLinux/main/Kali_Linux_Zshrc_2022 -o  ~/.zshrc
-
-# to avoid node.js errors: https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim
 
 
 echo ""

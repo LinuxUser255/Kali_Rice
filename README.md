@@ -9,3 +9,7 @@
  chmod +x rice.sh
  ./rice.sh
  ```
+also run: 
+```
+./install-coc-nvim.sh
+```

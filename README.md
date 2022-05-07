@@ -6,6 +6,7 @@
 
  ```
  cd Kali_Rice
+ pip install -r requirements.txt
  chmod +x rice.sh
  ./rice.sh
  ```

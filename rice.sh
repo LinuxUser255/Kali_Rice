@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Kali_Rice
+# Kali_Rice installation scripts
 # by Chris Bingham
 # License: GNU GPLv3
 # This bash script installs a customized .vimrc, Vim plugins and a .zshrc with short cut aliases

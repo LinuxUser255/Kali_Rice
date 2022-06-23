@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-
+# Kali_Rice
+# by Chris Bingham
+# License: GNU GPLv3
 # This bash script installs a customized .vimrc, Vim plugins and a .zshrc with short cut aliases
 # Read the following comments for more info if you want.
 # To avoid node.js errors: https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim

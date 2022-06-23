@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-
+# Kali_Rice instalation scripts
+# by Chris Bingham
+# License: GNU GPLv3
 set -o nounset    # error when referencing undefined variable
 set -o errexit    # exit when command fails
 

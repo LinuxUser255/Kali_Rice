@@ -20,3 +20,6 @@ also run:
 ![uncle-ted-mac](https://user-images.githubusercontent.com/46334926/178115990-2b1ded74-9445-42cf-8280-4439418c342f.png)
 
 ![bootloader](https://user-images.githubusercontent.com/46334926/178116141-17f94caa-aaf6-431e-9136-938195c7f9e1.jpg)
+
+![BloatwareDLL](https://user-images.githubusercontent.com/46334926/178116255-c65ba236-b14b-4043-8902-3ae596968c85.png)
+

@@ -14,3 +14,4 @@ also run:
 ```
 ./install-coc-nvim.sh
 ```
+![uncle-ted-mac](https://user-images.githubusercontent.com/46334926/178115990-2b1ded74-9445-42cf-8280-4439418c342f.png)

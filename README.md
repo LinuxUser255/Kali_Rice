@@ -14,4 +14,7 @@ also run:
 ```
 ./install-coc-nvim.sh
 ```
+
+![BrainletCMD-Line](https://user-images.githubusercontent.com/46334926/178116017-4bc954e4-d462-48b3-b0b6-dc9bc6bb8557.png)
+
 ![uncle-ted-mac](https://user-images.githubusercontent.com/46334926/178115990-2b1ded74-9445-42cf-8280-4439418c342f.png)

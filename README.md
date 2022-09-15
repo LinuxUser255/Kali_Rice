@@ -1,5 +1,5 @@
 # Kali_Rice
-### Bash script to automate the install of some custom dot files and othe repos on Kali Linux
+### Bash script to automate the install of some custom dot files and more.
 ---
 ##### Quick install:
 `git clone https://github.com/LinuxUser255/Kali_Rice.git`
